@@ -27,7 +27,8 @@
 <p>Visio</p>
 <p></p>
 <h3>Experience</h3>
-Systems Support Analyst
+<p></p>
+Systems Support Analyst<br>
 •	Automated the creation of donation websites for 52 organizations, reducing setup time by 80% using Excel/Word VBA macros
 •	Reduced email bounce-back rates by 10% by designing and implementing data audit reports in the CLASS system
 •	Ported paper schedules to an online format, resulting in annual savings of $50,000
@@ -49,6 +50,7 @@ Systems Support Analyst
 •	Perform monthly analysis of sales data for 9 Health & Fitness centers and 294 Childcare centers to help review marketing strategy and target specific groups
 •	Create workarounds for issues not being handled within existing applications by using Word/Excel macros thereby increasing efficiencies by 50%-80% in existing processes
 •	Provide analytical and technical support to users, and identify opportunities to enhance service delivery and process improvement 
+
 
 
 
