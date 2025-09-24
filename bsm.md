@@ -10,6 +10,20 @@
 <p><b>CompTIA A+</b></p>
 <p><b>CompTIA Network+</b></p>
 <p></p>
+<p><b>Technical Skills</b></p>
+Windows
+Linux
+SQL Server
+Crystal Reports
+Confluence
+JIRA
+Power BI
+Salesforce
+ActiveNet
+Raiser’s Edge
+Outlook / Word/ Excel (Pivot Tables)
+Visio
+
 
 
 
